@@ -1,0 +1,1 @@
+import{B as e,K as t,O as n}from"./obsah-BI0j1wNR.js";var r=t(),i=()=>(0,r.jsxs)(`section`,{className:`obal py-40`,children:[(0,r.jsx)(`h1`,{className:`t-h2`,children:n.nenajdene}),(0,r.jsx)(e,{to:`/co-robime`,className:`btn btn-zelena mt-8`,children:n.spat})]});export{i as notFoundComponent};

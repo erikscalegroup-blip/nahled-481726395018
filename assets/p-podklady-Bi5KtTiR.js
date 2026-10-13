@@ -1,0 +1,1 @@
+var e=`/assets/p-podklady-Bnx_RyBo.jpg`;export{e as t};

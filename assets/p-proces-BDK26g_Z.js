@@ -1,0 +1,1 @@
+var e=`/assets/p-proces-C1silv9R.jpg`;export{e as t};

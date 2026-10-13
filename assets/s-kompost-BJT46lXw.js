@@ -1,0 +1,1 @@
+var e=`/assets/s-kompost-D_ijMrbv.jpg`;export{e as t};

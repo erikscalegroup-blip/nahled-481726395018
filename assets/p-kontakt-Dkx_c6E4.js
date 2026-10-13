@@ -1,0 +1,1 @@
+var e=`/assets/p-kontakt-Dus5tNH5.jpg`;export{e as t};
